@@ -18,6 +18,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
     - [SQL](#sql)
   - [Topics](#topics)
     - [Security](#security)
+    - [Architecture](#architecture)
     - [Programming Styles](#programming-styles)
     - [Cloud](#cloud)
     - [Art](#art)
@@ -47,6 +48,9 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 
 ### Security
 * [Exploiting Network Surveillance Cameras Like a Hollywood Hacker](https://www.youtube.com/watch?v=B8DjTcANBx0) by **Craig Heffner** (2013)
+
+### Architecture
+* [Building Resilient Frontend Architecture](https://www.youtube.com/watch?v=TqfbAXCCVwE) by **Monica Lent** (2019)
 
 ### Programming Styles
 * [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M) by **Dave Thomas** (2015)
